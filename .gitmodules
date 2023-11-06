@@ -1,3 +1,6 @@
 [submodule "verzel-back"]
 	path = verzel-back
 	url = https://github.com/irmaodopao/verzel-back.git
+[submodule "verzel-front"]
+	path = verzel-front
+	url = https://github.com/irmaodopao/verzel-front.git
